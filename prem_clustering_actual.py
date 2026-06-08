@@ -3,6 +3,7 @@
 Created on Sat May 30 16:04:52 2026
 
 @author: jthon
+FOR KMEANS ++
 """
 
 import os
